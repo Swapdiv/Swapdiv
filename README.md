@@ -1,7 +1,7 @@
 [![MasterHead](https://grad.uwo.ca/img/programs/mda_Banner.jpg)]
 <h1 align="center">Hey Everyone 👋, I'm Swapnil Dhivar</h1>
 <h3 align="center">A passionate Data Enthusiast From India.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Swapdiv&label=Profile%20views&color=0e75b6&style=flat" alt="Swapdiv" /> </p>
 
 
